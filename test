@@ -6,4 +6,5 @@ git branch -M main
 git remote add origin https://github.com/JBenceT/test.git
 git push -u origin main
 
+This is a new comment. 
 This is a new comment.
